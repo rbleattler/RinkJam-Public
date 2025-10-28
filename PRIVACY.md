@@ -14,19 +14,11 @@ This Privacy Policy describes how RinkJam ("we," "us," or "our") collects, uses,
 - Communications with our support team
 
 ### Automatically Collected Information
-- Usage data and analytics
-- Device and browser information
-- IP addresses and location data
-- Cookies and similar technologies
+- None
 
 ## How We Use Your Information
 
-We use the collected information to:
-- Provide, maintain, and improve our services
-- Respond to your requests and support inquiries
-- Send important notifications and updates
-- Ensure security and prevent fraud
-- Comply with legal obligations
+We do not collect your information
 
 ## Data Sharing
 
