@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://github.com/rbleattler/RinkJam-Public/blob/main/README.md
+    about: Check out our documentation and guides
+  - name: 💬 Discussions
+    url: https://github.com/rbleattler/RinkJam-Public/discussions
+    about: Ask questions and discuss with the community
