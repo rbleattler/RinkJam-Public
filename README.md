@@ -128,7 +128,7 @@ For details, see the [Privacy Policy](PRIVACY.md).
 RinkJam is built in Swift and powered by Apple’s native frameworks, including AVFoundation and MusicKit.  
 It is designed and developed by **Coast Technologies LLC**, an independent software and cloud services company.
 
-Visit [coast-technologies.com](https://coast-technologies.com) to learn more.
+Visit [coasttech.io](https://coasttech.io) to learn more.
 
 ---
 
