@@ -63,20 +63,68 @@ RinkJam is available on the **App Store** for iPhone.
 
 ## Screenshots
 
-_Add screenshots here once they’re ready._
+### Main Soundboard & Game Flow
 
-For example:
+RinkJam is built for live game situations, where you need to trigger the right sound at the right moment without hunting through menus.
 
-- Main soundboard view with tags
-- Clip editor with waveform + range slider
-- Library / clip management views
-- Hot Mic mode
+![RinkJam home screen and main soundboard](screenshots/IMG_4622.PNG)
 
-```markdown
-![Soundboard](screenshots/soundboard.png)
-![Clip Editor](screenshots/clip-editor.png)
-![Hot Mic](screenshots/hot-mic.png)
-```
+The main screen gives you quick access to your libraries and core actions so you can get from “unlock phone” to “play intro music” in seconds.
+
+---
+
+### Libraries & Clips
+
+Organize your music and effects into libraries so you can quickly find the right clips for each team, league, or event.
+
+![Library list and clip organization](screenshots/IMG_4623.PNG)
+![Detailed library / clip view](screenshots/IMG_4624.PNG)
+
+Libraries keep goal horns, warmup tracks, and special effects grouped logically, so you’re never scrolling through a giant unstructured list in the middle of a game.
+
+---
+
+### Live Soundboard with Tags
+
+Tags are at the heart of the live soundboard experience. They let you group clips by moments in the game (Goal, Intro, Power Play, Warmup, etc.) and trigger them instantly.
+
+![Tag-based soundboard view](screenshots/IMG_4625.PNG)
+![Expanded tag / soundboard layout](screenshots/IMG_4626.PNG)
+
+Tap a tag to reveal its clips and fire them with one touch, so you can stay focused on the game instead of the UI.
+
+---
+
+### Clip Details & Controls
+
+Fine‑tune each clip with metadata and controls so it behaves exactly how you want during games.
+
+![Clip detail view and playback controls](screenshots/IMG_4627.PNG)
+![Additional clip options and metadata](screenshots/IMG_4628.PNG)
+
+You can see details like title, source, and tags at a glance, and quickly adjust which moments each clip is used for.
+
+---
+
+### Settings & Advanced Options
+
+Configure behavior that matters in a live environment: cross‑fades, default outputs, and more.
+
+![Settings and advanced options](screenshots/IMG_4629.PNG)
+![Additional settings and configuration](screenshots/IMG_4630.PNG)
+
+RinkJam is designed for noisy arenas and time‑sensitive moments, so the settings emphasize reliability and speed.
+
+---
+
+### Now Playing & Status
+
+Always know what’s currently playing and what’s loaded next, so you can confidently hit stop or switch clips on the fly.
+
+![Now playing and status view](screenshots/IMG_4631.PNG)
+![Additional playback status / info](screenshots/IMG_4632.PNG)
+
+The Now Playing area gives you a clear view of active audio, helping you avoid overlaps or awkward dead air.
 
 ---
 
